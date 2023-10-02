@@ -40,7 +40,9 @@ Presentation 2:
 - presented by Husain 
 - [https://github.com/hussainweb/ddev-ui](https://github.com/hussainweb/ddev-ui)
 
-
+##
+Follow-up:
+- [https://syntax.fm/show/671/tauri-vs-electron-desktop-apps-with-web-tech](https://syntax.fm/show/671/tauri-vs-electron-desktop-apps-with-web-tech)
 
 # 
 
