@@ -6,21 +6,7 @@
 
 ##
 Meetup.com listing: [https://www.meetup.com/laravel-toronto/events/295874255/](https://www.meetup.com/laravel-toronto/events/295874255/)
-
-
-##
-Suggested PHP sites:
-- [https://www.php.net](https://www.php.net)
-- [https://www.youtube.com/@ProgramWithGio](https://www.youtube.com/@ProgramWithGio)
-- [https://www.youtube.com/@phpannotated](https://www.youtube.com/@phpannotated)
-- [https://www.phpweekly.com](https://www.phpweekly.com)
-- [https://php.watch](https://php.watch)
-
-##
-Noteworthy:
-- [https://stateoflaravel.com/results](https://stateoflaravel.com/results)
-- [https://muhammedsari.me/unorthodox-eloquent](https://muhammedsari.me/unorthodox-eloquent)+
-  
+ 
 ##
 Laravel 11:
 - scheduled release February 2024
