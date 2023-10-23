@@ -31,6 +31,12 @@ Follow-up:
 - [https://syntax.fm/show/671/tauri-vs-electron-desktop-apps-with-web-tech](https://syntax.fm/show/671/tauri-vs-electron-desktop-apps-with-web-tech)
 - [https://dudi.dev/laravel-development-environment-comparison/](https://dudi.dev/laravel-development-environment-comparison/)
 
+##
+Pics
+
+![Sign on the door](/IMG_1224.png)
+![In an historic building](/IMG_1226.png)
+
 # 
 
 
